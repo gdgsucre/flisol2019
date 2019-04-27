@@ -9,4 +9,4 @@ Diapositivas de las charla de flisol2019
 [Archivo](FLiSol2019-Como ser Freelancer y aportar a proyectos de software libre.pdf)
 
 3. Mi dia a dia como diseñador UI
-[Archivo](Mi día a día como diseñador UI.pdf)
+* [Archivo](mi-dia-a-dia-como-design-ui)
